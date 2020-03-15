@@ -7,6 +7,11 @@ The dataset has (509236, 8) rows and columns respectively.
 The dataset has no missing values. 
 The columns "down_votes"  and "category" doesn’t have any unique values. “down_votes” have all the values as 0 and “category” is just ‘worldnews’. As they wouldn’t help in any computation, I have drop them.
 
+Word Cloud of all the News Titles-
+
+![wordcloud](https://user-images.githubusercontent.com/13540908/76710234-0793bd00-66c3-11ea-8f7a-886b44f4619c.png)
+
+
 **Problem Statement: Categorize News by its Title**
 
 After looking at the dataset, the news primarily self-explains itself as political news. As the content of the news articles are not given, I have attempted a topic categorization of news titles from its keywords using Latent Dirichlet Allocation (LDA).
