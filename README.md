@@ -7,7 +7,7 @@ The dataset has (509236, 8) rows and columns respectively.
 The dataset has no missing values. 
 The columns "down_votes"  and "category" doesn’t have any unique values. “down_votes” have all the values as 0 and “category” is just ‘worldnews’. As they wouldn’t help in any computation, I have drop them.
 
-Word Cloud of all the News Titles-
+**Word Cloud of all the News Titles-**
 
 ![wordcloud](https://user-images.githubusercontent.com/13540908/76710234-0793bd00-66c3-11ea-8f7a-886b44f4619c.png)
 
@@ -32,6 +32,7 @@ This is an important application of NLP which can help categorize/ Label certain
 **The LDA Model-**
 The “titles” are tokenized into a list of words and a Bigram and Trigram of the words is generated. 
 
+
 **Bigrams**- two words occurring frequently in a document.
 **Trigrams**- Three words occurring frequently in a document.
 
@@ -46,12 +47,12 @@ The dataset is self-explanatory and could be used for a better sentiment analysi
 
 ![Snip20200315_4](https://user-images.githubusercontent.com/13540908/76710233-0793bd00-66c3-11ea-9e82-cbd46183bdf9.png)
 
-Afinn Score for the News Titles:
+**Afinn Score for the News Titles:**
 
 ![Snip20200315_2](https://user-images.githubusercontent.com/13540908/76710231-05c9f980-66c3-11ea-8dba-fc0ffdc72b2b.png)
 
 
-Conclusion: The Perplexity and Coherence sore for the year 2008 news Titles-
+**Conclusion:** The Perplexity and Coherence sore for the year 2008 news Titles-
 
 ![image](https://user-images.githubusercontent.com/13540908/76710419-a79e1600-66c4-11ea-9bf8-10bdb770ac67.png)
 
