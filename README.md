@@ -26,7 +26,25 @@ This is an important application of NLP which can help categorize/ Label certain
 
 **The LDA Model-**
 The “titles” are tokenized into a list of words and a Bigram and Trigram of the words is generated. 
+
 **Bigrams**- two words occurring frequently in a document.
 **Trigrams**- Three words occurring frequently in a document.
 
 The input to the LDA model is a dictionary and the titles. Genism creates a unique ID for each of the word in the titles document. LDA model is easy to build with Genism. LDA model gives a Label suggestion and gives the following output with scores of each keyword contributing to that Label
+
+![image](https://user-images.githubusercontent.com/13540908/76710303-a8827800-66c3-11ea-9285-ea8a71aabdf6.png)
+
+
+**The Afinn Score:**
+
+The dataset is self-explanatory and could be used for a better sentiment analysis if the feature “down_votes” had better understanding. Here I have used the “afinn-score” which provides a word-list based approach. Following is an easy example to understand afinn score-
+
+
+
+Conclusion: The Perplexity and Coherence sore for the year 2008 news Titles-
+
+Perplexity:  -24.37361000809039
+
+Coherence Score:  0.4283470457415275
+
+*Kindly use NBviewer for visualizing the pyLDAvis which represents all the topics selected and the words associated to it.*
