@@ -41,6 +41,10 @@ The dataset is self-explanatory and could be used for a better sentiment analysi
 
 ![Snip20200315_4](https://user-images.githubusercontent.com/13540908/76710233-0793bd00-66c3-11ea-9e82-cbd46183bdf9.png)
 
+Afinn Score for the News Titles:
+
+![Snip20200315_2](https://user-images.githubusercontent.com/13540908/76710231-05c9f980-66c3-11ea-8dba-fc0ffdc72b2b.png)
+
 
 Conclusion: The Perplexity and Coherence sore for the year 2008 news Titles-
 
