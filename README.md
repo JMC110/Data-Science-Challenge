@@ -34,6 +34,7 @@ The “titles” are tokenized into a list of words and a Bigram and Trigram of 
 
 
 **Bigrams**- two words occurring frequently in a document.
+
 **Trigrams**- Three words occurring frequently in a document.
 
 The input to the LDA model is a dictionary and the titles. Genism creates a unique ID for each of the word in the titles document. LDA model is easy to build with Genism. LDA model gives a Label suggestion and gives the following output with scores of each keyword contributing to that Label
@@ -52,8 +53,9 @@ The dataset is self-explanatory and could be used for a better sentiment analysi
 ![Snip20200315_2](https://user-images.githubusercontent.com/13540908/76710231-05c9f980-66c3-11ea-8dba-fc0ffdc72b2b.png)
 
 
-**Conclusion:** The Perplexity and Coherence sore for the year 2008 news Titles-
+**Conclusion:** pyLDAvis represents all the topics/labels selected and the words associated to it.
+The Perplexity and Coherence score for the year 2008 news Titles-
 
 ![image](https://user-images.githubusercontent.com/13540908/76710419-a79e1600-66c4-11ea-9bf8-10bdb770ac67.png)
 
-*Kindly use NBviewer for visualizing the pyLDAvis which represents all the topics selected and the words associated to it.*
+*Kindly use NBviewer for visualizing the pyLDAvis.*
