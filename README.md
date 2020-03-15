@@ -1,5 +1,5 @@
 # Data-Science-Challenge
-The Dataset:
+**The Dataset:**
 The dataset has (509236, 8) rows and columns respectively.
 
 ![Picture1](https://user-images.githubusercontent.com/13540908/76710198-b257ab80-66c2-11ea-8592-db64692fbd6d.png)
