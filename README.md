@@ -1,6 +1,6 @@
 # Data-Science-Challenge
 **The Dataset:**
-The dataset has (509236, 8) rows and columns respectively.
+The dataset has (509236, 8) rows and columns respectively.Featuring news titles from year 2008 to 2016. This is a subset of the original 100GB dataset.
 
 ![Picture1](https://user-images.githubusercontent.com/13540908/76710198-b257ab80-66c2-11ea-8592-db64692fbd6d.png)
 
@@ -56,6 +56,8 @@ The dataset is self-explanatory and could be used for a better sentiment analysi
 **Conclusion:** 
 Perplexity and Topic Coherence are measures to evaluate how good the topic modeling is. Perplexity is better when its lower.
 Whereas Coherence measure is evaluated by measuring the degree of semantic similarity between high scoring words in a topic. It basically helps distinguish between good and bad topics. 
+
+Coherence score for the year 2008 is 0.4283470457415275 which is considered to be good as compared to the Coherence score of the complete dataset which is 0.16816801400415524. The reason might be the close association between types of news of these years. This model can be effectively evaluated with divergent news categories. 
 
 pyLDAvis represents all the topics/labels selected and the words associated to it.
 The Perplexity and Coherence score for the year 2008 news Titles-
