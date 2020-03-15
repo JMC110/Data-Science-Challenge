@@ -1,6 +1,6 @@
 # Data-Science-Challenge
 **The Dataset:**
-The dataset has (509236, 8) rows and columns respectively.Featuring news titles from year 2008 to 2016. This is a subset of the original 100GB dataset.
+The dataset has (509236, 8) rows and columns respectively. Featuring news titles from year 2008 to 2016. This is a subset of the original 100GB dataset.
 
 ![Picture1](https://user-images.githubusercontent.com/13540908/76710198-b257ab80-66c2-11ea-8592-db64692fbd6d.png)
 
