@@ -53,7 +53,11 @@ The dataset is self-explanatory and could be used for a better sentiment analysi
 ![Snip20200315_2](https://user-images.githubusercontent.com/13540908/76710231-05c9f980-66c3-11ea-8dba-fc0ffdc72b2b.png)
 
 
-**Conclusion:** pyLDAvis represents all the topics/labels selected and the words associated to it.
+**Conclusion:** 
+Perplexity and Topic Coherence are measures to evaluate how good the topic modeling is. Perplexity is better when its lower.
+Whereas Coherence measure is evaluated by measuring the degree of semantic similarity between high scoring words in a topic. It basically helps distinguish between good and bad topics. 
+
+pyLDAvis represents all the topics/labels selected and the words associated to it.
 The Perplexity and Coherence score for the year 2008 news Titles-
 
 ![image](https://user-images.githubusercontent.com/13540908/76710419-a79e1600-66c4-11ea-9bf8-10bdb770ac67.png)
