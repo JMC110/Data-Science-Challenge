@@ -39,6 +39,7 @@ The input to the LDA model is a dictionary and the titles. Genism creates a uniq
 
 The dataset is self-explanatory and could be used for a better sentiment analysis if the feature “down_votes” had better understanding. Here I have used the “afinn-score” which provides a word-list based approach. Following is an easy example to understand afinn score-
 
+![Snip20200315_4](https://user-images.githubusercontent.com/13540908/76710233-0793bd00-66c3-11ea-9e82-cbd46183bdf9.png)
 
 
 Conclusion: The Perplexity and Coherence sore for the year 2008 news Titles-
