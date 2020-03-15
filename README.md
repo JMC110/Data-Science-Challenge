@@ -43,8 +43,6 @@ The dataset is self-explanatory and could be used for a better sentiment analysi
 
 Conclusion: The Perplexity and Coherence sore for the year 2008 news Titles-
 
-Perplexity:  -24.37361000809039
-
-Coherence Score:  0.4283470457415275
+![image](https://user-images.githubusercontent.com/13540908/76710383-53933180-66c4-11ea-8af5-87331842d476.png)
 
 *Kindly use NBviewer for visualizing the pyLDAvis which represents all the topics selected and the words associated to it.*
