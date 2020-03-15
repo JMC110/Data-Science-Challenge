@@ -59,6 +59,8 @@ Whereas Coherence measure is evaluated by measuring the degree of semantic simil
 
 Coherence score for the year 2008 is 0.4283470457415275 which is considered to be good as compared to the Coherence score of the complete dataset which is 0.16816801400415524. The reason might be the close association between types of news of these years. This model can be effectively evaluated with divergent news categories. 
 
+During this time, limited computation power has made me to work on a smaller set of dataset and visualizing clustering for each year.
+
 pyLDAvis represents all the topics/labels selected and the words associated to it.
 The Perplexity and Coherence score for the year 2008 news Titles-
 
