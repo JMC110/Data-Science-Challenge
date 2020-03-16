@@ -67,3 +67,7 @@ The Perplexity and Coherence score for the year 2008 news Titles-
 ![image](https://user-images.githubusercontent.com/13540908/76710419-a79e1600-66c4-11ea-9bf8-10bdb770ac67.png)
 
 **Kindly use NBviewer for visualizing the pyLDAvis.**
+
+
+![Snip20200316_6](https://user-images.githubusercontent.com/13540908/76803389-f1efc780-6796-11ea-8b5e-502c5361931e.png)
+
