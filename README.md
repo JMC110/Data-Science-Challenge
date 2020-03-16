@@ -5,7 +5,7 @@ The dataset has (509236, 8) rows and columns respectively. Featuring news titles
 ![Picture1](https://user-images.githubusercontent.com/13540908/76710198-b257ab80-66c2-11ea-8592-db64692fbd6d.png)
 
 The dataset has no missing values. 
-The columns "down_votes"  and "category" doesn’t have any unique values. “down_votes” have all the values as 0 and “category” is just ‘worldnews’. As they wouldn’t help in any computation, I have drop them.
+The columns "down_votes"  and "category" doesn’t have any unique values. “down_votes” have all the values as 0 and “category” is just ‘worldnews’. As they wouldn’t help in any computation, I have dropped them.
 
 **Word Cloud of all the News Titles-**
 
@@ -66,4 +66,4 @@ The Perplexity and Coherence score for the year 2008 news Titles-
 
 ![image](https://user-images.githubusercontent.com/13540908/76710419-a79e1600-66c4-11ea-9bf8-10bdb770ac67.png)
 
-*Kindly use NBviewer for visualizing the pyLDAvis.*
+**Kindly use NBviewer for visualizing the pyLDAvis.**
